@@ -23,3 +23,4 @@ This project is a web application built with React that allows users to paste im
 
 * React
 * Clarifai API
+* postgres DB
